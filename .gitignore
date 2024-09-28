@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+/backend/node_modules
+/backend/.env
+/frontend/node_modules
+/frontend/.env
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+
+# other
+.DS_Store
+
